@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Demo page
+Open [https://kntrieu.github.io/simple-weather-reactjs/](https://kntrieu.github.io/simple-weather-reactjs/).
 ## Available Scripts
 
 In the project directory, you can run:
