@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACI,wBACJ,CAEA,gBACI,cACJ","file":"main.3c671d66.chunk.css","sourcesContent":["body {\r\n    background-color: darkslategrey;\r\n}\r\n\r\n.main-results p {\r\n    display: inline;\r\n}"]}
